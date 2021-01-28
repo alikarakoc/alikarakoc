@@ -1,1 +1,1 @@
-![](https://media.giphy.com/media/frNC8HLtwZjOLLPbV7/giphy.gif)
+![](https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif)

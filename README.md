@@ -13,7 +13,7 @@
 * Node.js
 * Express 
 * .Net Core 
-* MondoDb, 
+* MondoDb
 * React
 
 

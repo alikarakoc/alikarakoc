@@ -14,6 +14,8 @@
 * Express 
 * .Net Core 
 * MongoDb
+* MSSQL
+* JavaScript
 * React
 
 

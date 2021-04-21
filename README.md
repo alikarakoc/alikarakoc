@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif)
 
 
-# Hi :metal:
+# Hi 🙋‍♂️
 
 - I'm Ali .Net Developer since 2010
 - I'm trying to support open source projects and when I try new techs I try to share via Github with examples.
@@ -9,14 +9,8 @@
 - Currently, I continue to develop on new technologies.
 
 
-### My Tech
-* Node.js
-* Express 
-* .Net Core 
-* MongoDb
-* MSSQL
-* JavaScript
-* React
+### My Technologies 💻
+Net Core, .Net MVC, Node.js, Express, MongoDb, MSSQL, JavaScript, React
 
 
 

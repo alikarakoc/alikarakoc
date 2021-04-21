@@ -9,7 +9,7 @@
 - Currently, I continue to develop on new technologies.
 
 
-### My Technologies 💻
+# My Technologies 💻
 Net Core, .Net MVC, Node.js, Express, MongoDb, MSSQL, JavaScript, React
 
 

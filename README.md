@@ -10,7 +10,7 @@
 
 
 # My Technologies 💻
-Net Core, .Net MVC, Node.js, Express, MongoDb, MSSQL, JavaScript, React
+Net Core, .Net MVC, Node.js, Express, MongoDb, MSSQL, Dapper, JavaScript, React
 
 
 

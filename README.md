@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif)
+![](https://i.imgur.com/toEy8A2.mp4)
 
 
 # Hi 🙋‍♂️

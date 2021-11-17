@@ -8,7 +8,6 @@
 - I've developed erp, crm, custom cms, e-commerce applications with teams.
 - Currently, I continue to develop on new technologies.
 
-
 # My Technologies 💻
 .Net Core, .Net MVC, MSSQL, PostgreSQL, Redis, Docker, Dapper, JavaScript, Angular
 

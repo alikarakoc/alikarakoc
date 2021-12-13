@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikarakoc&label=Profile%20views&color=0e75b6&style=flat" alt="alikarakoc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikarakoc&theme=onedark&title=Stars,Followers" alt="alikarakoc" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikarakoc&theme=onedark&&row=2" alt="alikarakoc" /></a> </p>
 
 - 🔭 I’m currently working on [Hubox](https://www.hubox.com.tr)
 

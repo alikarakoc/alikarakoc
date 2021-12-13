@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ali .Net Developer since 2010</h1>
-<h3 align="center">.Net Developer since 2010</h3>
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">- I'm Ali .Net Developer since 2010 - I'm trying to support open source projects and when I try new techs I try to share via Github with examples. - I've developed erp, crm, custom cms, e-commerce applications with teams. - Currently, I continue to develop on new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikarakoc&label=Profile%20views&color=0e75b6&style=flat" alt="alikarakoc" /> </p>
 

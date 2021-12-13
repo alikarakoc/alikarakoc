@@ -1,5 +1,6 @@
 ![](https://raw.githubusercontent.com/alimertcakar/alimertcakar/master/dino.gif)
 
+![](https://komarev.com/ghpvc/?username=alikarakoc)
 
 # Hi 🙋‍♂️
 

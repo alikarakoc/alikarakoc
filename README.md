@@ -38,4 +38,10 @@
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alikarakoc&show_icons=true&locale=en" alt="alikarakoc" /></p>
 
+<p align="center">
+ <a href="[https://www.buymeacoffee.com/alikarakoc](https://www.buymeacoffee.com/alikarakoc)" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
+ </a>
+</p>
+
  

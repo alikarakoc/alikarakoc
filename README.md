@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Hubox](https://www.hubox.com.tr)
 
-- 🌱 I’m currently learning **React, Vue, Kotlin**
+- 🌱 I’m currently learning **React, Vue, Kotlin, Go**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alikarakoc/](https://www.linkedin.com/in/alikarakoc/)
 

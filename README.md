@@ -35,11 +35,5 @@
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=alikarakoc&show_icons=true&locale=en&layout=compact" alt="alikarakoc" /></p>
  
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=alikarakoc&show_icons=true&locale=en" alt="alikarakoc" /></p>
-
-<p align="center" style="display:none">
- <a href="https://www.buymeacoffee.com/alikarakoc" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="61" width="194" />
- </a>
-</p>
-
+ 
  

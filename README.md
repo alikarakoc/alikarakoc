@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alikarakoc/](https://www.linkedin.com/in/alikarakoc/)
 
-- 💬 Ask me about **jQuery, Angular, .Net MVC, .Net Core, MSSQL, PostgreSQL**
+- 💬 Ask me about **jQuery, JavaScript, TypeScript, Angular, .Net MVC, .Net Core, MSSQL, PostgreSQL**
 
 - 📫 How to reach me **bykrkc@gmail.com**
 

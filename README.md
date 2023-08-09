@@ -15,5 +15,6 @@ Currently, I continue to develop on new technologies.
  .Net Core, .Net MVC, MSSQL, PostgreSQL, Redis, Docker, Dapper, JavaScript, TypeScript, Angular
 </p>
 
+
  
  

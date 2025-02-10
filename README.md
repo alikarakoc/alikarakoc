@@ -1,20 +1,57 @@
-<h1 align="center">Hi there 👋</h1>
+# 🌍 Welcome | Hoş Geldiniz 👋
 
+## 🌐 English | 🇹🇷 Türkçe
 
+[English](#-english) | [Türkçe](#-türkçe)
 
-<p>I'm Ali .Net Developer since 2010</p>
+---
 
-<p>
- I'm trying to support open source projects and when I try new techs I try to share via Github with examples.
-I've developed erp, crm, custom cms, e-commerce applications with teams.
-Currently, I continue to develop on new technologies.
-</p>
+## 📌 English
 
+### Hi there! 👋
 
-<p>
- .Net Core, .Net MVC, MSSQL, PostgreSQL, Redis, Docker, Dapper, JavaScript, TypeScript, Angular
-</p>
+I'm **Ali**, a .NET developer with over a decade of experience in software development. I have worked on ERP, CRM, custom CMS, and e-commerce applications. Currently, I focus on **backend development** and exploring new technologies.
 
+### 🚀 Featured Projects
 
- 
- 
+- [Software Interview Questions](https://github.com/alikarakoc/YazilimMulakatSorulari) - A collection of technical interview questions and answers.
+- [Quick Messaging for WhatsApp](https://github.com/alikarakoc/Quick-Messaging-for-WhatsApp) - A Chrome extension for efficient messaging on WhatsApp Web.
+- [Go Practices](https://github.com/alikarakoc/Go) - Various projects and experiments in **Go**.
+
+### 🛠️ Technologies I Work With
+
+- **Backend:** .NET Core, .NET MVC, Dapper  
+- **Databases:** MSSQL, PostgreSQL, Redis  
+- **Frontend:** JavaScript, TypeScript, Angular  
+- **Others:** Docker  
+
+### 📫 Contact Me
+
+- **Website:** [alikarakoc.com](https://alikarakoc.com)  
+- **LinkedIn:** [linkedin.com/in/alikarakoc](https://www.linkedin.com/in/alikarakoc)  
+
+---
+
+## 📌 Türkçe
+
+### Merhaba! 👋
+
+Ben **Ali**, 10+ yıllık deneyime sahip bir **.NET geliştiricisiyim**. Yazılım dünyasında ERP, CRM, özel CMS ve e-ticaret uygulamalarında çalışmalar yaptım. Şu anda **backend geliştirme** üzerine odaklanıyor ve yeni teknolojileri keşfediyorum.
+
+### 🚀 Öne Çıkan Projelerim
+
+- [Yazılım Mülakat Soruları](https://github.com/alikarakoc/YazilimMulakatSorulari) - Teknik mülakatlarda karşılaşabileceğiniz soru ve cevaplar.
+- [Quick Messaging for WhatsApp](https://github.com/alikarakoc/Quick-Messaging-for-WhatsApp) - WhatsApp Web için mesajlaşmayı hızlandıran bir Chrome eklentisi.
+- [Go Çalışmaları](https://github.com/alikarakoc/Go) - **Go** dili üzerine çeşitli çalışmalar ve denemeler.
+
+### 🛠️ Kullandığım Teknolojiler
+
+- **Backend:** .NET Core, .NET MVC, Dapper  
+- **Veritabanları:** MSSQL, PostgreSQL, Redis  
+- **Frontend:** JavaScript, TypeScript, Angular  
+- **Diğer:** Docker  
+
+### 📫 Bana Ulaşın
+
+- **Web Sitesi:** [alikarakoc.com](https://alikarakoc.com)  
+- **LinkedIn:** [linkedin.com/in/alikarakoc](https://www.linkedin.com/in/alikarakoc)  

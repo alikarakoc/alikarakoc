@@ -2,7 +2,7 @@
 
 ---
 
-## 📌 English
+## English
 
 ### Hi there! 👋
 
@@ -28,7 +28,7 @@ I'm **Ali**, a .NET developer with over a decade of experience in software devel
 
 ---
 
-## 📌 Türkçe
+## Türkçe
 
 ### Merhaba! 👋
 

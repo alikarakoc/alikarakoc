@@ -1,7 +1,3 @@
-# 🌍 Welcome | Hoş Geldiniz 👋
-
-## 🌐 English | 🇹🇷 Türkçe
-
 [English](#-english) | [Türkçe](#-türkçe)
 
 ---
